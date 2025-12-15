@@ -1,0 +1,98 @@
+L_Enders_Cataclysm:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/l_enders-cataclysm
+MaxHealthFix:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/max-health-fix
+Oh-The-Biomes-Weve-Gone:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/oh-the-biomes-youll-go (Note: The mod is named "Oh The Biomes You'll Go")
+Oh-The-Trees-Youll-Grow:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/oh-the-trees-youll-grow
+Placebo:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/placebo
+Quark:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/quark
+TerraBlender:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/terrablender
+Zeta:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/zeta
+alexscaves:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/alexs-caves
+alexsmobs:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/alexs-mobs
+amendments:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/amendments
+architectury:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/architectury-api
+balm:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/balm
+bettercombat:
+CurseForge: https://wwws.curseforge.com/minecraft/mc-mods/better-combat-rebirth
+caelus:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/caelus
+citadel:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/citadel
+cloth-config:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/cloth-config
+coroutil:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/coroutil
+create:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/create
+curios:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/curios-api
+fallingtrees:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/falling-trees
+geckolib:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/geckolib
+ice_and_fire_spellbooks:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-spellbooks
+iceandfire:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-dragons
+iceandfire_curios:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-curios
+iceandfirebettercombat:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/ice-and-fire-better-combat
+idas_forge:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/idas
+integrated_api:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/integrated-api
+irons_spellbooks:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/irons-spells-n-spellbooks
+jei:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/jei
+jmi:
+CurseForge: https://wwws.curseforge.com/minecraft/mc-mods/journeymap-integration
+journeymap:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/journeymap
+l2artifacts:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/l2artifacts
+l2complements:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/l2complements
+l2library:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/l2library
+l2weaponry:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/l2weaponry
+lionfishapi:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/lionfish-api
+moonlight:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/moonlight-lib
+mowziesmobs:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/mowzies-mobs
+notenoughanimations:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/not-enough-animations
+pandalib:
+CurseForge: https://wwws.curseforge.com/minecraft/mc-mods/pandalib
+player-animation-lib:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/player-animation-library
+skinrestorer:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/skinrestorer
+sophisticatedbackpacks:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks
+sophisticatedcore:
+CurseForge: https://wwws.curseforge.com/minecraft/mc-mods/sophisticated-core
+supplementaries:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/supplementaries
+twilightforest:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/the-twilight-forest
+waystones:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/waystones
+weaponmaster_ydm:
+CurseForge: https://www.curseforge.com/minecraft/mc-mods/weaponmaster
